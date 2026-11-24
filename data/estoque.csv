@@ -1,0 +1,51 @@
+id_item,nome_item,categoria,apresentacao,unidade_medida,lote,quantidade_disponivel,estoque_minimo,estoque_alvo,consumo_medio_diario,data_validade,fornecedor
+1,Ribociclibe,Oncologia,200 mg,Comprimido,L001,12,30,90,3,2027-08-30,Fornecedor A
+2,Degarelix,Oncologia,80 mg,Frasco,L002,4,10,30,1,2027-06-30,Fornecedor A
+3,Epcoritamabe,Oncologia,48 mg,Frasco,L003,0,5,15,0.5,2027-09-30,Fornecedor B
+4,Ibrutinibe,Oncologia,140 mg,Comprimido,L004,180,60,300,6,2027-10-30,Fornecedor B
+5,Abiraterona,Oncologia,250 mg,Comprimido,L005,240,120,480,8,2027-11-30,Fornecedor A
+6,Darolutamida,Oncologia,300 mg,Comprimido,L006,120,60,240,4,2027-08-30,Fornecedor A
+7,Capecitabina,Oncologia,500 mg,Comprimido,L007,600,200,1000,20,2027-07-30,Fornecedor B
+8,Paclitaxel,Oncologia,100 mg,Frasco,L008,40,15,80,2,2027-05-30,Fornecedor C
+9,Carboplatina,Oncologia,450 mg,Frasco,L009,30,10,60,2,2027-06-30,Fornecedor C
+10,Cisplatina,Oncologia,50 mg,Frasco,L010,8,15,50,2,2027-04-30,Fornecedor C
+11,Doxorrubicina,Oncologia,50 mg,Frasco,L011,25,10,50,1,2027-08-30,Fornecedor B
+12,Trastuzumabe,Oncologia,150 mg,Frasco,L012,18,8,40,1,2027-09-30,Fornecedor B
+13,Rituximabe,Oncologia,500 mg,Frasco,L013,20,10,40,1,2027-10-30,Fornecedor C
+14,Filgrastim,Oncologia,300 mcg,Seringa,L014,45,20,100,3,2027-05-30,Fornecedor A
+15,Eritropoetina,Oncologia,4000 UI,Frasco,L015,10,20,60,2,2027-06-30,Fornecedor A
+16,Adrenalina,Emergencia,1 mg/mL,Ampola,L016,80,30,120,4,2027-08-30,Fornecedor D
+17,Amiodarona,Emergencia,50 mg/mL,Ampola,L017,40,15,80,2,2027-07-30,Fornecedor D
+18,Atropina,Emergencia,0.5 mg/mL,Ampola,L018,35,15,60,1,2027-09-30,Fornecedor D
+19,Noradrenalina,Emergencia,2 mg/mL,Ampola,L019,60,20,100,3,2027-10-30,Fornecedor D
+20,Adenosina,Emergencia,3 mg/mL,Ampola,L020,4,10,30,1,2027-05-30,Fornecedor D
+21,Hidrocortisona,Emergencia,500 mg,Frasco,L021,30,10,60,2,2027-08-30,Fornecedor E
+22,Dexametasona,Medicamento,4 mg/mL,Ampola,L022,100,40,200,5,2027-09-30,Fornecedor E
+23,Dipirona,Medicamento,500 mg/mL,Ampola,L023,200,80,400,15,2027-10-30,Fornecedor E
+24,Ondansetrona,Medicamento,2 mg/mL,Ampola,L024,150,50,300,10,2027-11-30,Fornecedor E
+25,Furosemida,Medicamento,10 mg/mL,Ampola,L025,80,30,150,4,2027-07-30,Fornecedor D
+26,Metoclopramida,Medicamento,5 mg/mL,Ampola,L026,60,20,120,3,2027-06-30,Fornecedor E
+27,Insulina regular,Medicamento,100 UI/mL,Frasco,L027,15,5,30,1,2027-04-30,Fornecedor E
+28,Glicose hipertônica,Emergencia,50%,Ampola,L028,70,20,120,3,2027-08-30,Fornecedor D
+29,Naloxona,Emergencia,0.4 mg/mL,Ampola,L029,0,5,20,0.5,2027-09-30,Fornecedor D
+30,Sulfato de magnesio,Emergencia,10%,Ampola,L030,40,15,80,2,2027-10-30,Fornecedor D
+31,Soro fisiologico,Solucao,500 mL,Bolsa,L031,300,100,600,25,2027-11-30,Fornecedor F
+32,Soro fisiologico,Solucao,100 mL,Bolsa,L032,200,80,400,20,2027-10-30,Fornecedor F
+33,Soro glicosado,Solucao,500 mL,Bolsa,L033,120,40,240,10,2027-09-30,Fornecedor F
+34,Ringer lactato,Solucao,500 mL,Bolsa,L034,100,30,200,8,2027-08-30,Fornecedor F
+35,Agua para injecao,Solucao,10 mL,Ampola,L035,400,150,800,30,2027-07-30,Fornecedor F
+36,Seringa,Material,10 mL,Unidade,L036,500,200,1000,40,2029-06-30,Fornecedor G
+37,Seringa,Material,20 mL,Unidade,L037,300,100,600,20,2029-07-30,Fornecedor G
+38,Seringa,Material,5 mL,Unidade,L038,400,150,800,30,2029-08-30,Fornecedor G
+39,Cateter intravenoso,Material,22 G,Unidade,L039,25,50,200,10,2029-09-30,Fornecedor H
+40,Cateter intravenoso,Material,20 G,Unidade,L040,180,60,300,12,2029-10-30,Fornecedor H
+41,Equipo macrogotas,Material,Padrao,Unidade,L041,250,100,500,20,2029-11-30,Fornecedor G
+42,Equipo fotoprotetor,Material,Padrao,Unidade,L042,15,30,100,5,2029-06-30,Fornecedor H
+43,Luva de procedimento,Material,Tamanho M,Caixa,L043,80,30,150,5,2029-07-30,Fornecedor G
+44,Gaze esteril,Material,7.5 x 7.5 cm,Pacote,L044,300,100,600,25,2029-08-30,Fornecedor H
+45,Curativo transparente,Material,10 x 12 cm,Unidade,L045,100,30,200,8,2029-09-30,Fornecedor H
+46,Clorexidina,Antisseptico,2%,Frasco,L046,35,10,70,2,2026-12-05,Fornecedor E
+47,Alcool 70%,Antisseptico,100 mL,Frasco,L047,60,20,120,4,2026-12-10,Fornecedor E
+48,Heparina,Medicamento,5000 UI/mL,Frasco,L048,40,15,80,2,2026-12-15,Fornecedor D
+49,Lidocaina,Medicamento,2%,Frasco,L049,30,10,60,2,2026-12-20,Fornecedor D
+50,Omeprazol,Medicamento,40 mg,Frasco,L050,50,20,100,3,2026-12-22,Fornecedor E

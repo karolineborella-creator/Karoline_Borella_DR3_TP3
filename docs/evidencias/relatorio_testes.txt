@@ -1,0 +1,15 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.12.10, pytest-9.2.0, pluggy-1.7.0 -- C:\Users\User\OneDrive\┴rea de Trabalho\INFINET\Desenvolvimento de Data-Driven Apps com Python\TP3\Karoline_Borella_DR3_TP3\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\User\OneDrive\┴rea de Trabalho\INFINET\Desenvolvimento de Data-Driven Apps com Python\TP3\Karoline_Borella_DR3_TP3
+plugins: anyio-4.16.0, langsmith-0.16.1
+collecting ... collected 6 items
+
+tests/test_tools.py::test_consultar_estoque PASSED                       [ 16%]
+tests/test_tools.py::test_identificar_estoque_critico PASSED             [ 33%]
+tests/test_tools.py::test_calcular_cobertura PASSED                      [ 50%]
+tests/test_tools.py::test_verificar_validade PASSED                      [ 66%]
+tests/test_tools.py::test_calcular_reposicao PASSED                      [ 83%]
+tests/test_tools.py::test_medicamento_inexistente PASSED                 [100%]
+
+============================== 6 passed in 1.56s ==============================
